@@ -499,11 +499,23 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Arduino Nano</h2>
-                  <p class="item-intro text-muted">El servei de tota la arquitectura</p>
+                  <h2 class="text-uppercase">Arduino</h2>
+                  <p class="item-intro text-muted">Resum del text:
+Sobre que nivell professional es pot utilitzar el projecte Arduino
+</p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt="">
-                  <p>L'Arduino nano es tracta del germà petit de l'Arduino Estàndard o UNO però amb petites modificacions.
-La seva funció és la d'interconnectar tots els components, i finalment interpreta el codi de programació i enviar les diferents ordres als sensors que s'estiguin utilitza'n.</p>
+                  <p>Les plaques Arduino, la tecnologia Diy. Fins a quin punt es pot arribar?
+
+Les targetes de desenvolupament destaquen a l'hora d'innovar en projectes per a diferents sectors.
+
+Aquest nou invent està format per diferents marques i com es pot veure la majoria de projectes a plataformes Crowdfunding estan fets a partir d'aquesta tecnologia.
+
+Però existeix un dubte fins a quin punt arriba aquesta tecnologia? Doncs veien diferents exemples fins al punt professional, ja que moltes de les tecnologies d'avui en dia van començar amb aquesta tecnologia.
+
+Jacob Beningo enginyer de sistemes comenta que lamenta el fet de desestimar aquesta tecnologia.
+
+Segons confessa la massiva utilització d'aquesta tecnologia ha fet que els professionals de la indústria entre els quals es trobava ell, el deixin de costat subestimant-lo.
+</p>
                   <ul class="list-inline">
                     <li>Hardware</li>
                     <li>Marca: Arduino</li>
@@ -637,9 +649,7 @@ La seva funció és la d'interconnectar tots els components, i finalment interpr
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">LedLamp la làmpada que escolta Música </h2>
-                  <p class="item-intro text-muted">La làmpada capaç d'escoltar el so de l'ambient i adaptar-se a ell </p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/05-full.jpg" alt="">
-                  <p>La làmpada led, es tracta d'un projecte portat a terme per l'empresa LEDLAMP, el qual es tracta d'una làmpada capaç d'escoltar el so de l'ambient i adaptar els seus leds a la música escoltada. Segons els seus creadors en un principi solament tenien pensat crear una llum que és puguis adaptar a l'espai on és col·loques i segons les necessitats de l'usuari, però durant el transcurs del projecte se'ls va ocórrer la idea de junta el món de l'audició amb aquest projecte i així va néixer aquesta idea. </p>
+                  <p class="item-intro text-muted">Axel Pauliac estudiant de Microinformàtica i xarxes és el creador de la làmpada led. Un invent presentat al gener capaç d'escoltar el so ambient i reproduir diverses tonalitats de colors a partir d'un sistema de leds, per tal de poder adaptar l'essència de les diferents ubicacions on s'utilitzi. Segons els seus creadors en un principi solament tenien pensat crear una llum que és puguis adaptar a l'espai on és col·loques i segons les necessitats de l'usuari, però durant el transcurs del projecte se'ls va ocórrer la idea de junta el món de l'audició amb aquest projecte i així va néixer aquesta idea. Aquest invent utilitza diferents tecnologies, però totes envolten el mateix món, la tecnologia Arduino. Arduino es tracta d'una placa base que actua com a cervell, i és capaç de processar la informació a partir de xips i sensor i d'aquesta manera es pot crear tot tipus d'invents. En el projecte de LEDLAMP s'utilitza un sensor de so el qual s'encarrega de detectar les freqüències de la música ambient i transmetre la informació a una placa mini Arduino aquesta processa la informació i a partir del codi programat interpreta la freqüència entrant i envia informació als leds perquè sàpiguen quan encendres i quan apagar-se d'aquesta manera es crea l'efecte d'adaptació de la llum a la música. </p>
                   <ul class="list-inline">
                     <li>2 Micro B</li>
                     <li>Marca: LEDLAMP</li>
@@ -673,7 +683,7 @@ La seva funció és la d'interconnectar tots els components, i finalment interpr
                   <h2 class="text-uppercase">El primer invent de LEDLAMP</h2>
                   <p class="item-intro text-muted">LEDLAMP l'empresa dedicada al món d'Arduino s'estrena.</p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt="">
-                  <p>El dia 01 de març del 2018, l'empresa LEDLAMP va treure al mercat el seu nou invent, LEDLAMP. Segons els detalls donats per l'empresa es tracta d'un invent per a totes les noves generacions enamorades del món dels leds. A més a més la mateixa empresa acaba d'obrir les seves noves xarxes socials, on es pot anar seguint totes les novetats, i a l'hora informar-se sobre el treball realitzat per tots els empleats en el disseny de nous invents, i noves idees.</p> 
+                  <p>El dia 01 de març del 2018, l'empresa LEDLAMP va treure al mercat el seu nou invent, LEDLAMP. Segons els detalls donats per l'empresa es tracta d'un invent per a totes les noves generacions enamorades del món dels leds. A més a més la mateixa empresa acaba d'obrir les seves noves xarxes socials, on es pot anar seguint totes les novetats, i a l'hora informar-se sobre el treball realitzat per tots els empleats en el disseny de nous invents, i noves idees. Les diferents xarxes socials que han obert són les següents: -Twitter -Facebook -Instagram És molt comú avui veure cada dia l'inici de noves empreses amb nous projectes i idees, però molt poques aconsegueixen triomfar com elles volen. Avui en dia el treball necessari per a la creació d'una nova empresa, és molt gran, des de la creació de la mateixa empresa, fins a l'objectiu que busca l'empresa, i tota la campanya de divulgació que s'ha de crear per poder arribar a tenir algun tipus de validesa. Per totes aquestes raons el món de l'emprenedoria avui en dia és de els més difícils i complicats i no tothom s'aventura per aquesta opció. Per tot això sorprèn quan es veu que una nova empresa dedicada al món dels circuits elèctrics i des de la redacció li enviem tota la nostra sort a aquesta petita empresa acabada de néixer. </p> 
 
 					<p> Les diferents xarxes socials que han obert són les següents:</p>
 					<p><a href="https://twitter.com/lightspacefutur">TWITTER</a></p>
